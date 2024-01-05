@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Yeni qovluq\project1\project1\bin\Debug\project1.exe.config
+C:\Users\Asus\Desktop\Yeni qovluq\project1\project1\bin\Debug\project1.exe
+C:\Users\Asus\Desktop\Yeni qovluq\project1\project1\bin\Debug\project1.pdb
+C:\Users\Asus\Desktop\Yeni qovluq\project1\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yeni qovluq\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yeni qovluq\project1\project1\obj\Debug\project1.exe
+C:\Users\Asus\Desktop\Yeni qovluq\project1\project1\obj\Debug\project1.pdb
