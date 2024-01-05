@@ -53,15 +53,19 @@ namespace project1
                         Console.WriteLine("--------Yeni mehsul elave et--------");
                         Console.WriteLine("daxil etmek istediyiniz mehsulu yazin:");
                         string newElement;
-                        do
-                        {
+                        
+                        
                             checkNameBool = false;
                             newElement = Console.ReadLine();
                             checkNameBool =checkName(ref mehsulNames, checkNameBool, newElement);
+
+                        if (checkNameBool == false)
+                        {
+                            addElement(ref mehsulNames, newElement);
+                            showAllNames(mehsulNames);
                         }
-                        while (2 > newElement.Length || 20 < newElement.Length || checkNameBool ==true);
-                        addElement(ref mehsulNames, newElement);
-                        showAllNames(mehsulNames);
+                       
+                        
                         break;
                     case "4":
 
